@@ -1,4 +1,4 @@
-# Student-Grading-Application
+# Student-Grading-Application(Machine Learning project)
 The Student Grading System is a web-based application developed using Python Flask and Machine Learning (Support Vector Machine - SVM). This application allows users to enter student marks and predicts their academic grade automatically.
 
 The system uses a trained Machine Learning model to classify marks into categories such as Fail, Just Pass, First Class, Good, and Distinction.
